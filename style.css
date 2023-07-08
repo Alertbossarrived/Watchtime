@@ -1,0 +1,88 @@
+body{
+  background-color: white;
+}
+.f1{
+  position: absolute;
+  top: 0px;
+}
+.f2 {
+  position: absolute;
+  top: 80px;
+}
+.f3 {
+  position: absolute;
+  top: 160px;
+}
+.f4 {
+  position: absolute;
+  top: 240px;
+}
+.f5 {
+  position: absolute;
+  top: 320px;
+}
+.f6 {
+  position: absolute;
+  top: 400px;
+}
+.f7 {
+  position: absolute;
+  top: 480px;
+}
+.f8 {
+  position: absolute;
+  top: 560px;
+}
+.f9 {
+  position: absolute;
+  top: 640px;
+}
+.f10 {
+  position: absolute;
+  top: 720px;
+}
+.f11 {
+  position: absolute;
+  top: 0px;
+  left: 110px;
+}
+.f12{
+  position: absolute;
+  top: 0px;
+  left: 110px;
+}
+.f13 {
+  position: absolute;
+  top: 80px;
+  left: 110px;
+}
+.f14 {
+  position: absolute;
+  top: 160px;
+  left: 110px;
+}
+.f15 {
+  position: absolute;
+  top: 240px;
+  left: 110px;
+}
+.f17 {
+  position: absolute;
+  top: 320px;
+  left: 110px;
+}
+.f18 {
+  position: absolute;
+  top: 400px;
+  left: 110px;
+}
+.f19 {
+  position: absolute;
+  top: 480px;
+  left: 110px;
+}
+.f20 {
+  position: absolute;
+  top: 560px;
+  left: 110px;
+}
